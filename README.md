@@ -1,2 +1,2 @@
-# WM244-Information-Security-Management
-Year 2 - 78%
+# WM244-Information-Security-Management (Year 2)
+This module develops the concepts and principles of information security management including its organisational aspects such as security governance, policies procedures and security standards. In this module, various issues associated with information assurance, incident management and government legislation on data protection will be presented. This module introduces security controls that are used to protect information and underlying IT systems and infrastructure. Disaster recovery, business continuity management, investigation and digital forensics, which are important aspects of information security management, will be discussed in this module. 
